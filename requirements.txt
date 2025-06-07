@@ -1,0 +1,7 @@
+Libraries required:
+1.streamlit
+2.google.generativeai
+
+to run the code:
+1.open cmd in your directory where your code is placed
+2.type the command streamlit run app.py
