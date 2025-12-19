@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Setup Gemini
-genai.configure(api_key="AIzaSyA6Ot4bNF6GKV6D3_MxAkisEWUlrbFT5qw")  # Replace with your real key
+genai.configure(api_key="")  # Replace with your real key
 model = genai.GenerativeModel("models/gemini-1.5-flash")
 
 # Streamlit title
